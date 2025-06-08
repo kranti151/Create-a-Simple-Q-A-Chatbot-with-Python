@@ -2,6 +2,11 @@
 
 A simple terminal-based chatbot built with Django and ChatterBot.
 
+Screenshot:
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/3cfeefaf-32d7-4db2-a353-2fe3f2788e6a" />
+
+
+
 ## Setup Instructions
 
 1. Create a virtual environment:
